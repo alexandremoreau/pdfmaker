@@ -1,0 +1,24 @@
+{
+  "name": "alexandremoreau/pdfmaker",
+  "type": "library",
+  "description": "Pdf Maker - A another lib php2pdf",
+  "keywords": [
+    "pdf"
+  ],
+  "homepage": "http://alexandre-moreau.fr/projets/pdfmaker",
+  "license": "LGPL-3.0",
+  "authors": [
+    {
+      "name": "Alexandre Moreau",
+      "email": "contact@alexandre-moreau.fr"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "classmap": [
+      "libs/"
+    ]
+  }
+}
